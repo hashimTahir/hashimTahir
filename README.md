@@ -1,15 +1,5 @@
-I'm a software engineer working mostly in Java and Kotlin. I have been working as a Android developer 
-for more than 5 years, and as a software engineer for 7 years. But I can tinker with any technology 
-(I have some experience with Python for backend, javaScript, NodeJS, Tensorflow)
-
-🌱 what I'm currently working on
-
-    Ejabberd XMPP server and client for android. 
-    Jetpack Compose.
-    Android Architecture patterns.
-    Kotlin multiplatform.
-    
-    
+Software engineer working mostly in Java and Kotlin. I have been working as a Android developer 
+for more than 5 years, and as a software engineer for 7 years. But I can tinker with any technology.
 
 
 📫 How to reach me
